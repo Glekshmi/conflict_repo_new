@@ -1,6 +1,6 @@
 <html>
 <head><title>conflict demo</title>
 <body>
-<p>let us learn conflict resolution</p>
+<p>conflict resolution</p>
 </body>
 </html>
